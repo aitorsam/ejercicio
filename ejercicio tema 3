@@ -1,0 +1,10 @@
+int suma(int a, int b, intc)
+return 'a'+'b'+'c'
+int resultado 
+resultado = suma(10,30,20)
+Car miCar = new Car ();
+miCar.addpuertas();
+class car
+public int puertas = 4;
+public void addpuertas()
+this.puertas--;
